@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blackflagz.github.io/isopod-playbook/sitemap.xml
+Sitemap: https://gofirst.me/isopod-playbook/sitemap.xml
